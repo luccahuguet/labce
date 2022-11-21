@@ -2,10 +2,6 @@
 
 include("functions.jl")
 
-# using Pluto
-# Pluto.run()
-include("functions.jl")
-
 vs1 = 5
 vs2 = 10
 
